@@ -1,0 +1,1 @@
+DynDetours is a language agnostic API Hijack / Function Detouring library. It is completely dynamic, meaning no more hardcoded function prototypes!
